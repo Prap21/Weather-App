@@ -21,3 +21,6 @@ Check out the live version here: [Weather App](https://Prap21.github.io/Weather-
 # How It Works
 Enter a city name in the search bar to get the current weather details.
 Weather details such as temperature, humidity, and condition (e.g., sunny, rainy) will be displayed dynamically.
+
+
+Contact Me at : dimosprap@gmail.com
